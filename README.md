@@ -1,5 +1,5 @@
 # CGD Analysis
-Caixa Geral de Depósitos on a Jupyter Notebook - import your csv movements and watch the magic happen
+Caixa Geral de Depósitos is a Portuguese Bank and, with this Jupyter Notebook, you can import your csv account movements and watch the magic happen!
 
 Checkout the **[Jupyter Notebook](analysis.ipynb)** where all the instructions are available. 
 
